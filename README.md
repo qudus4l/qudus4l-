@@ -1,5 +1,9 @@
 # 💫 About Me:
-As a data scientist with a passion for statistics and mathematics, I leverage my skills in Python, POSTGRESQL, R and excel to drive innovation in the field of machine learning and artificial intelligence. Proficient in Microsoft Power Apps, I constantly strive to improve my expertise in data analysis and visualization.<br>In my free time, I nurture my love for writing by exploring various research topics and authoring insightful papers. Alongside, I invest in personal growth by reading self-help books and seeking new learning opportunities.
+👋 Hi, I'm Quddus, a software engineer passionate about building AI-powered solutions and automation tools. My expertise spans Machine Learning, AI, and Data Science, with a focus on creating real-world, impactful projects.
+
+I've worked with technologies like Python, LLMs, RAG models, and developed AI-driven chatbots that solve complex problems. I’m particularly interested in leveraging AI to optimize workflows and decision-making processes. Recently, I’ve been diving into LLM applications and automation, deploying solutions that drive efficiency and innovation.
+
+Always learning and exploring new tech, I enjoy collaborating on open-source projects and pushing the boundaries of AI.
 
 
 ## 🌐 Socials:
